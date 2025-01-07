@@ -3,7 +3,7 @@
 title: Wang Song
 
 # Name pronunciation (optional)
-name_pronunciation: Wang Song
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Song

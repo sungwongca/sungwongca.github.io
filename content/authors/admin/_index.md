@@ -3,7 +3,7 @@
 title: Wang Song
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+name_pronunciation: Wang Song
 
 # Full name (for SEO)
 first_name: Song
@@ -36,7 +36,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/gdgzhz12849
   - icon: brands/instagram
-    url: https://www.instagram.com/sungwongca
+    url: https://www.instagram.com/sungwong.ca
   - icon: brands/github
     url: https://github.com/sungwongca
   - icon: brands/linkedin
@@ -181,4 +181,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello.

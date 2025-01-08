@@ -33,14 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:songwang.us@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/gdgzhz12849
-  - icon: brands/instagram
-    url: https://www.instagram.com/sungwong.ca
   - icon: brands/github
     url: https://github.com/sungwongca
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/itaoist
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=dDJqip4AAAAJ
   - icon: academicons/orcid
@@ -48,39 +42,21 @@ profiles:
 
 interests:
   - Remote sensing of sea ice
+  - Sea ice anomalous and extreme envents
+  - Driving factors and sea ice change
+  - Future change of polar ice
 
 education:
-  - area: ''
-    institution: ''
-    date_start: ''
-    date_end: ''
+  - area: MSc Environmental Science
+    institution: Shanghai Ocean University
+    date_start: 2011-09-01
+    date_end: 2014-06-30
     summary: |
-      ''
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng 
-    institution: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BSc Electronic Informantion Science and Technology (Information Security)
+    institution: Henan Agricultural University
+    date_start: 2006-09-01
+    date_end: 2010-06-30
     summary: |
-      GPA: ''
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc
-    institution: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: ''
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: ''
     company_name: ''

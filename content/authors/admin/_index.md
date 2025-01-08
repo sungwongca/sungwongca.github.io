@@ -30,7 +30,7 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: hero/envelop
+  - icon: at-symbol
     url: 'mailto:songwang.us@gmail.com'
     label: E-mail Me
   - icon: academicons/researchgate
@@ -41,7 +41,7 @@ profiles:
     url: https://scholar.google.com/citations?user=dDJqip4AAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/
-  - icon: brand/instagram
+  - icon: brands/instagram
     url: https://www.instagram.com/songwang.ca
 
 interests:

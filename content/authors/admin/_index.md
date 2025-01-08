@@ -37,7 +37,7 @@ profiles:
     url: https://www.researchgate.net/profile/Song-Wang-91
   - icon: brands/github
     url: https://github.com/sungwongca
-  - icon: academicons/CV
+  - icon: academicons/cv
     url: ''
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=dDJqip4AAAAJ

@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:songwang.us@gmail.com'
     label: E-mail Me
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Song-Wang-91
   - icon: brands/github
     url: https://github.com/sungwongca
   - icon: academicons/google-scholar

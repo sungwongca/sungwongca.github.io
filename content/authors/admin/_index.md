@@ -159,4 +159,4 @@ awards:
 
 ## About Me
 
-Hello.
+Hello, I am currently in Germany. I'm interested in ocean remote sensing, including polar sea ice and SST.

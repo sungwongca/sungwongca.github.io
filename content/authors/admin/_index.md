@@ -38,11 +38,11 @@ profiles:
   - icon: brands/github
     url: https://github.com/sungwongca
   - icon: academicons/cv
-    url: ''
+    url: /uploads/resume.pdf
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=dDJqip4AAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0008-1940-8088
   - icon: brands/instagram
     url: https://www.instagram.com/songwang.ca
 

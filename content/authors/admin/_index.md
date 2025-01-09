@@ -71,6 +71,7 @@ work:
     date_start: 2014-07-01
     date_end: 2022-08-30
     summary: |
+
   - position: Academic Affairs Office Staff
     company_name: Guangzhou College of Technology and Business
     company_url: www.gzgs.edu.cn
@@ -78,6 +79,14 @@ work:
     date_start: 2022-09-01
     date_end: 2024-09-30
     summary: |
+
+  - position: Laboratory Technician
+    company_name: Henan Agricultural University
+    company_url: www.henau.edu.cn
+    company_logo: /uploads/henaulogo.png
+    date_start: 2010-07-01
+    date_end: 2011-08-30
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

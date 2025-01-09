@@ -128,6 +128,8 @@ languages:
     percent: 100
   - name: Deutsch
     percent: 25
+  - name: Cantonese
+    percent: 70
 
 # Awards.
 #   Add/remove as many awards below as you like.

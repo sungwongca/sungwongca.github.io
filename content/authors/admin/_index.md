@@ -124,11 +124,11 @@ skills:
 languages:
   - name: English
     percent: 70
-  - name: Chinese
+  - name: 中文
     percent: 100
   - name: Deutsch
     percent: 25
-  - name: Cantonese
+  - name: 廣東話
     percent: 70
 
 # Awards.

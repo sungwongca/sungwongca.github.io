@@ -9,7 +9,6 @@ publishDate: '2025-01-09T12:24:34.502727Z'
 publication_types:
 - article-journal
 publication: '*Periodical of Ocean University of China*'
-doi: 10.16441/j.cnki.hdxb.2014.09.003
 tags:
 - seawater temperature
 - segment-based model

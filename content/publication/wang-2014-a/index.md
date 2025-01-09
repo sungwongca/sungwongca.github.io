@@ -9,7 +9,6 @@ publishDate: '2025-01-09T12:36:01.001688Z'
 publication_types:
 - article-journal
 publication: '*Journal of Shanghai Ocean University*'
-doi: CNKI:SUN:SSDB.0.2014-04-021
 tags:
 - Flex Viewer
 - Arctic Ocean

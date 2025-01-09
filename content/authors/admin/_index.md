@@ -91,7 +91,8 @@ skills:
       - name: Linux
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
 
 languages:
   - name: English

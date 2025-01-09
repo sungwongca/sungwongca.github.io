@@ -68,14 +68,14 @@ work:
   - position: Laboratory Technician
     company_name: Henan Agricultural University
     company_url: www.henau.edu.cn
-    company_logo: /uploads/henaulogo.png
+    company_logo: uploads/henaulogo.png
     date_start: 2010-07-01
     date_end: 2011-08-30
     
   - position: IT Supervisor
     company_name: Guangdong Yueyun Traffic Rescue Co. Ltd.
     company_url: ''
-    company_logo: /uploads/jt.png
+    company_logo: uploads/jt.png
     date_start: 2014-07-01
     date_end: 2022-08-30
     summary: |
@@ -83,7 +83,7 @@ work:
   - position: Academic Affairs Office Staff
     company_name: Guangzhou College of Technology and Business
     company_url: www.gzgs.edu.cn
-    company_logo: /uploads/gzgs.jpg
+    company_logo: uploads/gzgs.jpg
     date_start: 2022-09-01
     date_end: 2024-09-30
     summary: |

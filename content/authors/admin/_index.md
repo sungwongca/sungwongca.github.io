@@ -47,9 +47,9 @@ profiles:
     url: https://www.instagram.com/songwang.ca
 
 interests:
-  - Ocean remote sensing: signal processing and digital image processing
-  - Sea ice: anomalous and extreme events, driving factors and future change
-  - Remote sensing applications: changes in human activities and the natural environment
+  - Ocean remote sensing:signal processing and digital image processing
+  - Sea ice:anomalous and extreme events, driving factors and future change
+  - Remote sensing applications:changes in human activities and the natural environment
 
 education:
   - area: MSc Environmental Science

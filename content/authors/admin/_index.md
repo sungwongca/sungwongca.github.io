@@ -50,6 +50,7 @@ interests:
   - Ocean remote sensing:signal processing and digital image processing
   - Sea ice:anomalous and extreme events, driving factors and future change
   - Remote sensing applications:changes in human activities and the natural environment
+  - Complex environmental problems:data and modeling
 
 education:
   - area: MSc Environmental Science

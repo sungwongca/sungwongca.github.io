@@ -155,4 +155,4 @@ languages:
 
 ## About Me
 
-Hello, I am currently in Germany. I'm interested in ocean remote sensing and modeling.
+Hello, I am currently in Germany. I'm interested in ocean remote sensing.
